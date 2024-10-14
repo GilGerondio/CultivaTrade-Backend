@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\BusinessPermits\\New Text Document.txt",
+      "PackagePath": "staticwebassets\\Images\\BusinessPermits\\New Text Document.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Products\\8d457787-349b-4c41-b7aa-d8e34f04ef27.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\8d457787-349b-4c41-b7aa-d8e34f04ef27.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Products\\ba3ce2f8-2065-4a91-9e0d-34c9f988d456.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ba3ce2f8-2065-4a91-9e0d-34c9f988d456.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\070764d7-8d06-4d1e-808b-fa13371a193b.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\070764d7-8d06-4d1e-808b-fa13371a193b.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\5210a686-348a-45e3-9bd2-f44f80d8a0ad.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\5210a686-348a-45e3-9bd2-f44f80d8a0ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\701e0428-1642-446a-aa62-69bdd91d3344.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\701e0428-1642-446a-aa62-69bdd91d3344.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\86eeefd8-ea3f-467b-a34c-cb5f665938a6.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\86eeefd8-ea3f-467b-a34c-cb5f665938a6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\980200d9-340f-4cab-b213-0bbbf0cff0dc.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\980200d9-340f-4cab-b213-0bbbf0cff0dc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\bcbe2b0d-b88e-4823-b7d9-c7c633621a16.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\bcbe2b0d-b88e-4823-b7d9-c7c633621a16.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Cultivatrade\\cultivatrade.api\\Cultivatrade.Api\\wwwroot\\Images\\Profiles\\e93c37cd-0975-4ff7-9770-3168b33c42b5.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\e93c37cd-0975-4ff7-9770-3168b33c42b5.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cultivatrade.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cultivatrade.Api.props",
+      "PackagePath": "build\\Cultivatrade.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cultivatrade.Api.props",
+      "PackagePath": "buildMultiTargeting\\Cultivatrade.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cultivatrade.Api.props",
+      "PackagePath": "buildTransitive\\Cultivatrade.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
